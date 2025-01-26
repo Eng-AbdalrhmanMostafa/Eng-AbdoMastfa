@@ -2,6 +2,10 @@
 
 <img src="https://github.com/user-attachments/assets/b265a8ce-4a77-4af6-802a-ffb5054dd716" align="right">
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&center=true&vCenter=true&random=false&width=435&lines=A+QA++%26+Testing+Engineer+.;Always+learn+new+things+!" alt="Typing SVG" /></a>
+</p>
+
 
 I'm a **Software Devolper** building scalable APIs and exploring tools like **GraphQL**. 🚀 Following the **OSSU curriculum**, I focus on growth, exciting projects like the **BuddyChat API**, and lifelong learning. 📚✨
 
