@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/b265a8ce-4a77-4af6-802a-ffb5054dd716" align="right">
 
 
-I'm a **Django backend developer** building scalable APIs and exploring tools like **GraphQL**. 🚀 Following the **OSSU curriculum**, I focus on growth, exciting projects like the **BuddyChat API**, and lifelong learning. 📚✨
+I'm a **Software Devolper** building scalable APIs and exploring tools like **GraphQL**. 🚀 Following the **OSSU curriculum**, I focus on growth, exciting projects like the **BuddyChat API**, and lifelong learning. 📚✨
 
 Let's dive in! 👨‍💻✨
 
@@ -39,29 +39,8 @@ class WhoAmI:
     def get_projects():
         return [
             Project(
-                name="BuddyChat",
-                description="""The BuddyChat API is a GraphQL-based backend built with Django for real-time communication through private and group chats.
-                    It supports user management, authentication, notifications, and group features like admin roles, member handling, and archiving.
-                    Real-time updates are enabled via Django Channels, and advanced features include throttling, pagination, and filtering.
-                    Its /graphql endpoint provides a scalable foundation for modern chat applications.""",
-                repo_link="https://github.com/ahmedxgouda/BuddyChat",
-                tech_stack=["Python", "Django", "MySQL", "GraphQL", "Graphene", "Django Channels", "Django Signals"],
-            ),
-            Project(
-                name="LittleLemonAPI",
-                description="An API that manages a restaurant's menu, orders, and customers. It also provides a dashboard for the restaurant owner to manage the restaurant.",
-                repo_link="https://github.com/ahmedxgouda/LittleLemon",
-                tech_stack=["Python", "Django", "MySQL", "Django REST framework"],
-            ),
-            Project(
-                name="Factory-System",
-                description="A system managing the production process in a factory, including managing orders, products, and employees.",
-                tech_stack=["Flutter", "PostgreSQL", "Supabase"],
-            ),
-            Project(
-                name="Video-Toolbox",
-                description="An interactive platform designed for video manipulation, offering features like merging, clipping, converting, and embedding. Stay tuned for potential additional features!",
-                repo_link="https://github.com/ahmedxgouda/video-toolbox"
+                name="",
+                description=(
             ),
         ]
 ```
