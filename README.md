@@ -1,10 +1,9 @@
-# Hello Everyone! :wave:
+# <h1 align="lift"> Hello Everyone! , and Welcome to Abdo Mastfa's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
 
 <img src="https://github.com/user-attachments/assets/b265a8ce-4a77-4af6-802a-ffb5054dd716" align="right">
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&center=true&vCenter=true&random=false&width=435&lines=A+QA++%26+Testing+Engineer+.;Always+learn+new+things+!" alt="Typing SVG" /></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=23&duration=3900&pause=1000&color=F72859&center=true&vCenter=true&width=435&lines=.Software+Developer+%F0%9F%98%8A.+;Always+learn+new+things!." alt="Typing SVG" /></a>
 
 
 I'm a **Software Devolper** building scalable APIs and exploring tools like **GraphQL**. 🚀 Following the **OSSU curriculum**, I focus on growth, exciting projects like the **BuddyChat API**, and lifelong learning. 📚✨
