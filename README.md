@@ -6,19 +6,19 @@
 <table>
   <tr>
     <td>
-
-<!-- المحتوى الأساسي بتاعك -->
-- 🏢 **EL Sherouk Academy - Faculty of Engineering**  
-- 👷‍♂️ I'm Civil engineer and working as site engineer at Taj Misr company.  
-- 👨‍💻 I have made a career shift to the field of programming.  
-- 🌱 I’m currently learning everything about Front-end development.  
-- 👨‍💻 Constantly learning new technologies to improve my skills.  
-- 💬 **Ask me about Python, programming or anything related to web development.**  
-- ⚡ Fun fact: I'm a cat lover 🐈  
+      
+- 🎓 **Minia National University - Faculty of AI & Computer Science.**
+- 👷‍♂️ **I'm Software Engineer and still Student.**
+- 🛡️ **Red Teaming cybersecurity. | 💣 Exploit Developer.**
+- 🧠 **AI & Cybersecurity Enthusiast. | 🧩 Problem Solver.**
+- 👨‍💻 **I Interest and Selfstudy in Cybersecurity and Penetration Testing.**  
+- 🌱 **I’m currently learning Cybersecurity with deploma Red Teaming & Exploit Developer.**
+- 👨‍💻 **Constantly learning new technologies to improve my skills.**  
+- 💬 **Ask me about Python, programming or anything related to Ai and Cybersecurity and software .**  
+- ⚡ **Fun fact: I'm a cat lover 🐈**  
 
     </td>
     <td>
-      <!-- صورة على اليمين ونازلة لتحت -->
       <br>
       <img src="https://github.com/Govindv7555/Govindv7555/blob/main/1574956586430.gif" width="400px">
     </td>
@@ -38,6 +38,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=40px>
 
 ## :computer: Technologies I Love
 * Django
