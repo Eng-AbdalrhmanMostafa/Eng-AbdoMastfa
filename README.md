@@ -47,3 +47,11 @@ class WhoAmI:
             ),
         ]
 ```
+
+
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=40px>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;I'm+Long+Life+Learner">
+</h3>
+
+> “Keep pushing forward. Every line of code brings you closer to mastery.” 💪
