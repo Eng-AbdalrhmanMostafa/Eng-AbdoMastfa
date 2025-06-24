@@ -1,17 +1,30 @@
 # <h1 align="lift"> Hello Everyone! , and Welcome to Abdo Mastfa's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
 
-<img src="https://github.com/user-attachments/assets/b265a8ce-4a77-4af6-802a-ffb5054dd716" align="right">
-
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=23&duration=3900&pause=1000&color=F72859&center=true&vCenter=true&width=435&lines=.Software+Developer+%F0%9F%98%8A.+;Always+learn+new+things!." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=23&duration=3900&pause=1000&color=F72859&center=true&vCenter=true&width=435&lines=Software+Developer+%F0%9F%98%8A.+;Always+learn+new+things!." alt="Typing SVG" /></a>
 
-- 🏢 **EL Sherouk Academy - Faculty of Engineering**
-- 👷‍♂️  I'm Civil engineer and working as site engineer at Taj Misr company.
-- 👨‍💻  I have made a career shift to the field of programming.
-- 🌱  I’m currently learning ervery thing about Front-end development.
-- 👨‍💻  constantly learning new technologies to improve my skills.
-- 💬 **Ask me about python , programming or anything related to web development.**
-- ⚡ Fun fact: i'm a cat lover 🐈
+<table>
+  <tr>
+    <td>
+
+<!-- المحتوى الأساسي بتاعك -->
+- 🏢 **EL Sherouk Academy - Faculty of Engineering**  
+- 👷‍♂️ I'm Civil engineer and working as site engineer at Taj Misr company.  
+- 👨‍💻 I have made a career shift to the field of programming.  
+- 🌱 I’m currently learning everything about Front-end development.  
+- 👨‍💻 Constantly learning new technologies to improve my skills.  
+- 💬 **Ask me about Python, programming or anything related to web development.**  
+- ⚡ Fun fact: I'm a cat lover 🐈  
+
+    </td>
+    <td>
+      <!-- صورة على اليمين ونازلة لتحت -->
+      <br>
+      <img src="https://github.com/Govindv7555/Govindv7555/blob/main/1574956586430.gif" width="400px">
+    </td>
+  </tr>
+</table>
+
 
 ### 🛠 &nbsp;Languages and Tools :
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -61,13 +74,6 @@ class WhoAmI:
             ),
         ]
 ```
-
-## 🏆 My Certifications :arrow_down:
-
-- []()
-- []()
-- []()
-- []()
 
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=40px>
