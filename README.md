@@ -62,23 +62,23 @@
  ## Who am I?
  ```python
 class WhoAmI:
-    user = 'Ahmed Gouda'
-    current_work = 'Building APIs'
-    skills = ["Securing APIs", "Monitoring APIs", "OOP and OOD", "Design patterns", "Algorithms and Data Structures"]
+    user = 'Abdoalrhman mostafa'
+    current_work = 'Student'
+    skills = ["Cybersecurity", "Penetration Testing", "OOP", "Algorithms and Data Structures"]
     strengths = ["Effective planning", "Fast learning", "Working under pressure"]
 
     def get_projects():
         return [
             Project(
-                name="",
+                name="Goood Job",
                 description=(
             ),
         ]
 ```
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/mohamedaboalhadied2682006" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/> </a>
-<a href="mailto:MohamedAboElhadied@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-D44638?style=for-the-badge&logo=Gmail&logoColor=white"/> </a> <a href="https://www.facebook.com/share/18XW9JZzAF/" target="_blank"> <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/> </a> <a href="https://x.com/Aboalhdied?t=t_vOsvgXo8uiQDj5ji9M5w&s=08" target="_blank"> <img src="https://img.shields.io/badge/-Twitter(X)-000000?style=for-the-badge&logo=Twitter&logoColor=white"/> </a> <a href="https://www.instagram.com/maboalhadied?utm_source=qr" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/> </a> <a href="https://github.com/mohamedhadied23/mohamedhadied23/tree/main" target="_blank"> <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=GitHub&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/abdalrhman-mostafa-0a6227337" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/> </a>
+<a href="mailto:abdomastafa05@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-D44638?style=for-the-badge&logo=Gmail&logoColor=white"/> </a> 
 ---
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=40px>
